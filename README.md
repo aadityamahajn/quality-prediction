@@ -1,1 +1,1 @@
-# quality-prediction
+# quality-prediction-in-mining-process
