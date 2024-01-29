@@ -5,4 +5,6 @@ The objective of project is to enhance the efficiency of manufacturing plants by
 
 ### Data Source 
 Utilizing the "Quality Prediction in a Mining Process" dataset from Kaggle, a publicly available collection of real-world data from a mining flotation plant.
-[Dataset Link]https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
+[Dataset Link](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process)
+
+
